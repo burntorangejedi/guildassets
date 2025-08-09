@@ -1,0 +1,34 @@
+{
+    "title": "📌 Compulsion Guild Setup – Register Your Main & Alts!",
+    "description": "🧙‍♂️ Welcome adventurers! To help us organize raids, track keystones, and manage guild data, please complete the following quick setup using our **Jeeves** bot.",
+    "color": 16065893,
+    "fields": [
+        {
+            "name": "🔗 Step 1: Link Your Battle.net Account",
+            "value": "Run the command below to authorize Jeeves to access your WoW characters:\n```\n/authorize\n```\n✅ This is secure and only allows Jeeves to read your character data.",
+            "inline": false
+        },
+        {
+            "name": "🧝‍♀️ Step 2: Set Your Main Character",
+            "value": "Once your characters are synced, run:\n```\n/characters set-main\n```\n🎯 Select your main toon from the dropdown menu. This helps us know who you’re raiding or pushing keys with!",
+            "inline": false
+        },
+        {
+            "name": "🧙‍♂️ Step 3: Register Your Alts",
+            "value": "Jeeves automatically syncs all your characters, but you can manage visibility:\n\n• `/characters view` – See your synced characters\n• `/characters hide` – Hide any alts you don’t want visible\n• `/characters ignore` – Remove a character entirely from tracking\n\n🧩 You don’t need to manually “register” alts — just make sure they’re visible if you want them tracked!"
+        },
+        {
+            "name": "💡 Helpful Tips",
+            "value": "🔄 You can change your main anytime by re-running `/characters set-main`\n👀 Use `/characters view` to see your synced characters\n❓ Need help? Type `!mainhelp` or ask in <#guild-chat>"
+        }
+    ],
+    "footer": {
+        "text": "Thanks for keeping your info up to date! Let’s keep Compulsion strong 💪 and organized 🧙‍♂️."
+    },
+    "author": {
+        "name": "Brakk 🐺 | Co-GM"
+    },
+    "thumbnail": {
+        "url": "https://github.com/burntorangejedi/guildassets/blob/main/compulsion/icons/compulsion_transparent.png?raw=true"
+    }
+}
