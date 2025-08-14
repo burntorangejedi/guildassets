@@ -1,0 +1,34 @@
+{
+    "title": "💡 Bot Cheat Sheet | Jeeves",
+    "description": "Here's a quick guide to help you get started with Jeeves, our guild management bot. Follow these steps to set up your account and keep your character information organized!",
+    "color": 16065893,
+    "fields": [
+        {
+            "name": "/affix",
+            "value": "Display the current Mythic+ affixes for the week.",
+            "inline": false
+        },
+        {
+            "name": "/worldboss",
+            "value": "Check the current World Boss and their location.",
+            "inline": false
+        },
+        {
+            "name": "",
+            "value": "Jeeves automatically syncs all your characters, but you can manage visibility:\n\n• `/characters view` – See your synced characters\n• `/characters hide` – Hide any alts you don’t want visible\n• `/characters ignore` – Remove a character entirely from tracking\n\n🧩 You don’t need to manually “register” alts — just make sure they’re visible if you want them tracked!"
+        },
+        {
+            "name": "💡 Helpful Tips",
+            "value": "🔄 You can change your main anytime by re-running `/characters set-main`\n👀 Use `/characters view` to see your synced characters\n❓ Need help? Type `!mainhelp` or ask in <#guild-chat>"
+        }
+    ],
+    "footer": {
+        "text": "Thanks for keeping your info up to date! Let’s keep Compulsion strong 💪 and organized 🧙‍♂️."
+    },
+    "author": {
+        "name": "Brakk 🐺 | Co-GM"
+    },
+    "thumbnail": {
+        "url": "https://github.com/burntorangejedi/guildassets/blob/main/compulsion/icons/compulsion_transparent.png?raw=true"
+    }
+}
