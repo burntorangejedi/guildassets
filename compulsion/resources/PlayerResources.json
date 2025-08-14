@@ -1,0 +1,62 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "📦 Addon Manager & Required Addons",
+      "description": "These are **mandatory** for raiding with Compulsion. Make sure you’re set up before raid night!",
+      "color": 6964621,
+      "fields": [
+        {
+          "name": "🧰 Addon Manager",
+          "value": "[WowUp](https://wowup.io/) — Recommended addon manager (choose the CurseForge-supported version!)"
+        },
+        {
+          "name": "✅ Required Addons",
+          "value": "➤ [DBM](https://www.curseforge.com/wow/addons/dbm-raidleadtools) or [BigWigs](https://www.curseforge.com/wow/addons/big-wigs) + [LittleWigs](https://www.curseforge.com/wow/addons/little-wigs)\n  ↪ Don’t forget expansion packages\n➤ [Details](https://www.curseforge.com/wow/addons/details) — Combat metrics (DPS, HPS, interrupts, deaths)\n➤ [Raider.IO](https://www.curseforge.com/wow/addons/raiderio) — Raid & M+ rankings\n  ↪ Companion to [raider.io](https://raider.io)"
+        }
+      ],
+      "footer": {
+        "text": "Updated August 2025 • Compulsion Guild"
+      }
+    },
+    {
+      "title": "⭐ Recommended Addons",
+      "description": "These addons improve performance, visibility, and quality of life. Highly encouraged for all members.",
+      "color": 16766720,
+      "fields": [
+        {
+          "name": "💡 Combat & UI",
+          "value": "➤ [GTFO](https://www.curseforge.com/wow/addons/gtfo) — Damage zone alerts\n➤ [OmniCD](https://www.curseforge.com/wow/addons/omnicd) — Party cooldown tracker\n➤ [Plater](https://www.curseforge.com/wow/addons/plater-nameplates) — Nameplate replacement\n➤ [WeakAuras](https://www.curseforge.com/wow/addons/weakauras-2) — Custom alerts\n  ↪ [Luxthos Class Auras](https://www.curseforge.com/wow/weakaura/luxthos-warrior-core)"
+        },
+        {
+          "name": "🧠 Strategy & Sim Tools",
+          "value": "➤ [Mythic Dungeon Tools](https://www.curseforge.com/wow/addons/mythic-dungeon-tools) — M+ strategy planner\n➤ [Simulationcraft](https://www.curseforge.com/wow/addons/simulationcraft) — Gear simming\n➤ [Spec BiS Tooltip](https://www.curseforge.com/wow/addons/spec-bis-tooltip) — Shows BiS items per spec\n➤ [Talent Tree Tweaks](https://www.curseforge.com/wow/addons/talent-tree-tweaks) — Talent UI upgrades"
+        }
+      ],
+      "footer": {
+        "text": "Updated August 2025 • Compulsion Guild"
+      }
+    },
+    {
+      "title": "💎 Awesome Addons",
+      "description": "These are community favorites for immersion, crafting, and UI upgrades. Try them out and find your favorites!",
+      "color": 52945,
+      "fields": [
+        {
+          "name": "🎨 UI & Immersion",
+          "value": "➤ [ElvUI](https://www.tukui.org/download.php?ui=elvui) — Full UI replacement\n  ↪ [ToxiUI](https://www.curseforge.com/wow/addons/toxiui) — ElvUI skin (Chris-approved!)\n➤ [DialogUI](https://www.curseforge.com/wow/addons/dialogui) — NPC interaction overhaul\n➤ [Narcissus](https://www.curseforge.com/wow/addons/narcissus) — Character panel upgrade\n➤ [Plumber](https://www.curseforge.com/wow/addons/plumber) — UI enhancements"
+        },
+        {
+          "name": "🛠️ Crafting & Utility",
+          "value": "➤ [CraftScan](https://www.curseforge.com/wow/addons/craftscan) — Public order tracking\n➤ [Farmer](https://www.curseforge.com/wow/addons/farmer) — Farming visibility tools\n➤ [Train All](https://www.curseforge.com/wow/addons/train-all) — Profession training QOL\n➤ [Premade Groups Filter](https://www.curseforge.com/wow/addons/premade-groups-filter) — LFG filter upgrades\n➤ [Silver Dragon](https://www.curseforge.com/wow/addons/silver-dragon) — Rare mob alerts"
+        }
+      ],
+      "footer": {
+        "text": "Updated August 2025 • Compulsion Guild"
+      }
+    }
+  ],
+  "username": "Compulsion Resources [Brakk]",
+  "avatar_url": "https://avatars.githubusercontent.com/u/125756530?v=4",
+  "attachments": []
+}
