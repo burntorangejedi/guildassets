@@ -1,57 +1,61 @@
 {
-    "fields": [
-        {
-            "inline": false,
-            "name": "📜 Step 1: Read and Accept the Rules",
-            "value": "Visit the <#558289444927700992> channel and read through the rules. When you've read them all, and you're ready to follow them during your time in Compulsion, add a reaction to the bottom and then come back here to do the next step.\n\n"
-        },
-        {
-            "name": "\u200B",
-            "value": " "
-        },
-        {
-            "inline": false,
-            "name": "🔗 Step 2: Link Your Battle.net Account",
-            "value": "Run the command below to authorize Jeeves to access your WoW characters:\n```\n/authorize\n```\n✅ This is secure and only allows Jeeves to read your character data.\n\n"
-        },
-        {
-            "name": "\u200B",
-            "value": " "
-        },
-        {
-            "inline": false,
-            "name": "🧝‍♀️ Step 3: Set Your Main Character",
-            "value": "Once your characters are synced, run:\n```\n/characters set-main\n```\n🎯 Select your main toon from the dropdown menu. This helps us know who you’re raiding or pushing keys with!\n\n"
-        },
-        {
-            "name": "\u200B",
-            "value": " "
-        },
-        {
-            "inline": false,
-            "name": "🧙‍♂️ Step 4: Register Your Alts",
-            "value": "Jeeves automatically syncs all your characters, but you can manage visibility:\n\n• `/characters view` – See your synced characters\n• `/characters hide` – Hide any alts you don’t want visible\n• `/characters ignore` – Remove a character entirely from tracking\n\n"
-        },
-        {
-            "name": "\u200B",
-            "value": " "
-        },
-        {
-            "name": "💡 Helpful Tips",
-            "value": "🔄 You can change your main anytime by re-running `/characters set-main`\n🔄 Update your roles & professions by running `/roles update`\n👀 Use `/characters view` to see your synced characters\n❓ Need help? Send us a message in <#1401394945901989898> or contact an @Officer",
-            "inline": false
-        }
-    ],
-    "title": "📌 Compulsion  Rules and Character Registration",
-    "description": "Welcome adventurers🧙‍♂️ ! Compulsion is excited to have you join us for some incredible experiences. To get started, please do the following tasks to get yourself ready to roll. ",
+    "title": "📌 Compulsion | Rules & Character Registration",
+    "description": "Welcome adventurers! <:logo512x512v1:1392664069449973770> Compulsion is excited to have you join us for some incredible experiences. To get started, please do the following tasks to get yourself ready to roll.\n​\n​",
     "thumbnail": {
         "url": "https://github.com/burntorangejedi/guildassets/blob/main/compulsion/icons/compulsion_transparent.png?raw=true"
     },
     "author": {
         "name": "Brakk 🐺 | Co-GM"
     },
-    "color": 16065893,
+    "color": 10163221,
     "footer": {
         "text": "Thanks for keeping your info up to date! Let’s keep Compulsion strong 💪 and organized 🧙‍♂️."
-    }
+    },
+    "fields": [
+        {
+            "inline": false,
+            "name": "📜 Step 1: Read and Accept the Rules",
+            "value": "Visit the <#558289444927700992> channel and read through the rules. When you've read them all, and you're ready to follow them during your time in Compulsion, add a reaction to the bottom and then come back here to do the next step."
+        },
+        {
+            "inline": false,
+            "name": "​",
+            "value": ""
+        },
+        {
+            "inline": false,
+            "name": "🔗 Step 2: Link Your Battle.net Account",
+            "value": "Run the command below in the <#1403169588602212352> channel to authorize Jeeves to access your WoW characters:\n```\n/authorize\n```\n✅ This is secure and only allows Jeeves to read your character data."
+        },
+        {
+            "inline": false,
+            "name": "​",
+            "value": ""
+        },
+        {
+            "inline": false,
+            "name": "🧝‍♀️ Step 3: Set Your Main Character",
+            "value": "Once your characters are synced, run:\n```\n/characters set-main\n```\n🎯 Select your main toon from the dropdown menu. This helps us know who you’re raiding or pushing keys with!"
+        },
+        {
+            "inline": false,
+            "name": "​",
+            "value": ""
+        },
+        {
+            "inline": false,
+            "name": "🧙‍♂️ Step 4: Register Your Alts",
+            "value": "Jeeves automatically syncs all your characters, but you can manage visibility:\n\n• `/characters view` – See your synced characters\n• `/characters hide` – Hide any alts you don’t want visible\n• `/characters ignore` – Remove a character entirely from tracking"
+        },
+        {
+            "inline": false,
+            "name": "​",
+            "value": ""
+        },
+        {
+            "inline": false,
+            "name": "💡 Helpful Tips",
+            "value": "🔄 You can change your main anytime by re-running `/characters set-main`\n🔄 Update your roles & professions by running `/roles update`\n👀 Use `/characters view` to see your synced characters\n❓ Need help? Send us a message in <#1401394945901989898> or contact an @Officer"
+        }
+    ]
 }
