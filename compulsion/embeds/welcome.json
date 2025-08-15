@@ -1,16 +1,4 @@
 {
-    "title": "📌 Compulsion | Rules & Character Registration",
-    "description": "Welcome adventurers! <:logo512x512v1:1392664069449973770> Compulsion is excited to have you join us for some incredible experiences. To get started, please do the following tasks to get yourself ready to roll.\n​\n​",
-    "thumbnail": {
-        "url": "https://github.com/burntorangejedi/guildassets/blob/main/compulsion/icons/compulsion_transparent.png?raw=true"
-    },
-    "author": {
-        "name": "Brakk 🐺 | Co-GM"
-    },
-    "color": 10163221,
-    "footer": {
-        "text": "Thanks for keeping your info up to date! Let’s keep Compulsion strong 💪 and organized 🧙‍♂️."
-    },
     "fields": [
         {
             "inline": false,
@@ -55,7 +43,19 @@
         {
             "inline": false,
             "name": "💡 Helpful Tips",
-            "value": "🔄 You can change your main anytime by re-running `/characters set-main`\n🔄 Update your roles & professions by running `/roles update`\n👀 Use `/characters view` to see your synced characters\n❓ Need help? Send us a message in <#1401394945901989898> or contact an @Officer"
+            "value": "🔄 You can change your main anytime by re-running `/characters set-main`\n🔄 Update your roles & professions by running `/roles update`\n👀 Use `/characters view` to see your synced characters\n❓ Need help? Post in <#1401394945901989898> or contact an <@&558295148916637696>"
         }
-    ]
+    ],
+    "title": "📌 Compulsion | Rules & Character Registration",
+    "description": "Welcome adventurers!  🐉 Compulsion is excited to have you join us for some incredible experiences. To get started, please do the following tasks to get yourself ready to roll.\n​\n​",
+    "thumbnail": {
+        "url": "https://github.com/burntorangejedi/guildassets/blob/main/compulsion/icons/compulsion_transparent.png?raw=true"
+    },
+    "author": {
+        "name": "Brakk 🐺 | Co-GM"
+    },
+    "color": 10163221,
+    "footer": {
+        "text": "Thanks for keeping your info up to date! Let’s keep Compulsion strong 💪 and organized 🧙‍♂️."
+    }
 }
