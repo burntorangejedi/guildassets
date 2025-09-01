@@ -1,0 +1,49 @@
+{
+  "content": "Read these guidelines carefully to ensure a smooth raiding experience. Indicate that you have read, understood, and agree to be held accountable to them using the provided reaction.",
+  "embeds": [
+    {
+      "title": "Compulsion Heroic/AOTC Team Standards",
+      "description": "_“We don't just pull bosses. We build victories.”_",
+      "url": "https://guildsofwow.com/compulsion",
+      "color": 12539648,
+      "fields": [
+        {
+          "name": "🔥 Why Structure Matters",
+          "value": "Heroic isn't just Normal with bigger numbers. Every fight demands coordination, preparation, and accountability. One unenchanted weapon or missed interrupt can wipe the team."
+        },
+        {
+          "name": "🧠 Respect Everyone's Time",
+          "value": "Prepared = Empowered. Be ready with the approprate gear, gems, enchants, and consumables. Showing up ready means respecting the time and effort of your team."
+        },
+        {
+          "name": "🔄 Consistency =a Progress",
+          "value": "Random rosters stall momentum. We iterate, improve, and assign roles based on a stable team. Progression thrives on consistency—not chaos."
+        },
+        {
+          "name": "🧩 Officer-Proof Systems",
+          "value": "Clear qualifications. No drama. Consistent participation, minimum ilvl, log improvements, and prep checklists make it easy to know who's ready. Officers shouldn't have to guess or debate - and neither should the players."
+        },
+        {
+          "name": "🏆 AOTC Is a Brand",
+          "value": "Compulsion stands for clarity, excellence, and pride. AOTC teams reflect our identity—branded visuals, clear expectations, and a shared sense of achievement."
+        }
+      ],
+      "author": {
+        "name": "Brakk",
+        "url": "https://discordapp.com/users/512839235921772544",
+        "icon_url": "https://github.com/burntorangejedi/guildassets/blob/main/shared/icons/texasjedi.jpg?raw=true"
+      },
+      "footer": {
+        "text": "Compulsion • Achievement Through Teamwork",
+        "icon_url": "https://github.com/burntorangejedi/guildassets/blob/main/compulsion/logos/compulsion-icon-32x32.png?raw=true"
+      },
+      "timestamp": "2025-09-01T21:39:00.000Z",
+      "image": {
+        "url": "https://github.com/burntorangejedi/guildassets/blob/main/compulsion/banners/raid-team-banner.png?raw=true"
+      }
+    }
+  ],
+  "username": "Compulsion",
+  "avatar_url": "https://github.com/burntorangejedi/guildassets/blob/main/compulsion/logos/compulsion-logo.png?raw=true",
+  "attachments": []
+}
